@@ -2,6 +2,9 @@
 
 - 💼 In this moment, i'm searching for my first job!
 - 📚 I'm studying System Analysis and Development at FIAP
+- ⚡ I'm a geek, and love games :)
+
+##
 
 <div align="center">
   <a href="https://github.com/LuizHPaiola">
@@ -19,5 +22,5 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-
 </div>
+ 
