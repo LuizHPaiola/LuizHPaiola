@@ -1,6 +1,6 @@
 ## Hello, i'm Luiz, welcome to my github!!
 
-- 💼 In this moment, i'm searching for my first job!
+- 💼 In this moment, I'm developing some experimental projects by myself for increase my experience.
 - 📚 I'm studying System Analysis and Development at FIAP
 - ⚡ I'm a geek, and love games :)
 
